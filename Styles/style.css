@@ -1,0 +1,102 @@
+body, html{
+  height:100%;
+  margin:0;
+  font-size:16px;
+  font-family:"Berlin Sans FB", sans-serif;
+  font-weight:200;
+  line-height:2.3em;
+}
+
+.img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9, .img10, .img11, .img12{
+  position:relative;
+  opacity:0.85;
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+}
+
+.img1{
+  background-image:url('../Images/image1.jpg');
+  min-height:100%;
+}
+
+.img2{
+  background-image:url('../Images/image2.jpg');
+  min-height:400px;
+}
+
+.img3{
+  background-image:url('../Images/image3.jpg');
+  min-height:400px;
+}
+
+.img4{
+  background-image:url('../Images/image4.jpg');
+  min-height:400px;
+}
+
+.img5{
+  background-image:url('../Images/image5.jpg');
+  min-height:400px;
+}
+
+.img6{
+  background-image:url('../Images/image6.jpg');
+  min-height:400px;
+}
+
+.img7{
+  background-image:url('../Images/image7.jpg');
+  min-height:400px;
+}
+
+.img8{
+  background-image:url('../Images/image8.jpg');
+  min-height:400px;
+}
+
+.img9{
+  background-image:url('../Images/image9.jpg');
+  min-height:400px;
+}
+
+.img10{
+  background-image:url('../Images/image10.jpg');
+  min-height:400px;
+}
+
+.img11{
+  background-image:url('../Images/image11.jpg');
+  min-height:400px;
+}
+
+.img12{
+  background-image:url('../Images/image12.jpg');
+  min-height:100%;
+}
+
+.section{
+  text-align:center;
+  padding:50px 80px;
+  background: linear-gradient(to right,#000000,#C0C0C0);  
+  color:#666;
+  padding: 20px; 	
+}
+
+p{
+  top:50%;
+  width:100%;
+  text-align:center;
+  color:#FFFFFF;
+  font-size:22px;
+  letter-spacing:2px;
+}
+
+h2{
+  font-family:"Algerian", sans-serif;
+  text-align:center;
+  color:#FFFFFF;
+  font-size:29px;
+  letter-spacing:5.0px;
+}
